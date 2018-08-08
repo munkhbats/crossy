@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 6b336507c5acb4d5e8ad168e5111e9e6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite_object_2_0
+    21300002: sprite_object_2_1
+    21300004: sprite_object_2_2
+    21300006: sprite_object_2_3
+    21300008: sprite_object_2_4
+    21300010: sprite_object_2_5
+    21300012: sprite_object_2_6
+    21300014: sprite_object_2_9
+    21300016: sprite_object_2_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: sprite_object_2_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 851
+        width: 303
+        height: 1092
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_object_2_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 851
+        width: 256
+        height: 987
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_object_2_2
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1451
+        width: 122
+        height: 490
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_object_2_3
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1599
+        width: 233
+        height: 262
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_object_2_4
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1631
+        width: 219
+        height: 160
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_object_2_5
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1651
+        width: 219
+        height: 142
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_object_2_6
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1447
+        width: 220
+        height: 121
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_object_2_9
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 845
+        width: 244
+        height: 580
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_object_2_8
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1384
+        width: 169
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: object
+  userData: 

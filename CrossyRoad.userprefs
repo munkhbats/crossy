@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Floor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraMovement.cs" Line="17" Column="28" />
+      <File FileName="Assets/Scripts/FloorManager.cs" Line="120" Column="13" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="38" Column="21" />
+      <File FileName="Assets/Scripts/UserMovement.cs" Line="31" Column="1" />
+      <File FileName="Assets/Scripts/Enums.cs" Line="5" Column="7" />
+      <File FileName="Assets/Scripts/Floor.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

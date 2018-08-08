@@ -1,0 +1,102 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public enum Environment{
+	UNITYEDITOR,
+	DEVICE
+}
+
+public enum FloorTypes{
+	CONCRETE1A = 0,
+	CONCRETE1B = 1,
+	CONCRETE1C = 2,
+	CONCRETE1D = 3,
+	CONCRETE1E = 4,
+	CONCRETE1F = 5,
+	CONCRETE1G = 6,
+	CONCRETE2A = 7,
+	CONCRETE2B = 8,
+	CONCRETE2C = 9,
+	CONCRETE2D = 10,
+	CONCRETE2E = 11,
+	CONCRETE2F = 12,
+	CONCRETE2G = 13,
+	MUDTYPE1A = 14,
+	MUDTYPE1B = 15,
+	MUDTYPE1C = 16,
+	RIVERSIDE1 = 17,
+	RIVERSIDE2 = 18,
+	RIVER1 = 19,
+	RIVER2 = 20,
+	CONCRETE1H = 21,
+	CONCRETE1I = 22,
+	CONCRETE2H = 23,
+	CONCRETE2I = 24,
+	CONCRETE1J = 25,
+	CONCRETE2J = 26,
+	RIVERROCK = 27,
+	CONCRETE1K = 28,
+	CONCRETE2K = 29,
+	CONCRETE1L = 30,
+	CONCRETE2L = 31,
+	MUDTYPE2B = 32,
+	MUDTYPE2C = 33,
+	CONCRETE1M = 34,
+	CONCRETE2M = 35,
+}
+
+public enum ObstacleTypes{
+	NONE = 0,
+	POLICECAR = 1,
+	TAXICAB = 2,
+	HYDRANT = 3,
+	DRUMCAN = 4,
+	FLOORROCK = 5,
+	BUILDING = 6,
+	BUILDING2 = 7,
+	BUILDING3 = 8,
+	TRAFFICLIGHT = 9,
+	DEBRI1 = 10,
+	DEBRI2 = 11,
+	DEBRI3 = 12,
+	DEBRI4 = 13,
+	TELBOOTH = 14,
+	TREE1 = 15,
+	TREE2 = 16,
+	TREE3 = 17,
+	STREETLIGHT = 18,
+	TRASHCAN = 19,
+	DEBRI = 20,
+	SOLDIER = 21,
+}
+
+public enum FloorPosition {
+	TOP = 0,
+	BOTTOM = 1,
+}
+
+public enum FlowingfloorSizeType {
+	SHORT = 0,
+	MEDIUM = 1,
+	LONG = 2,
+}
+
+public enum FloorAttributes {
+	FLOOR = 0,
+	WATER = 1,
+	WALL = 2,
+	STICK = 3,
+	BAMBOO = 4,
+}
+
+public enum UserDeathType {
+	NONE = 0,
+	WATER = 1,
+	BULLET = 2,
+	HUMMER = 3,
+	CAMERA = 4,
+}
+
+public class Enums : MonoBehaviour {
+
+}
