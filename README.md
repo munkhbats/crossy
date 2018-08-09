@@ -5,6 +5,9 @@ Prototype running game developed on 2D Unity.
 Zombie runs and dodge the obstacles.
 Obstacles including water, bullet, humvee etc.
 
+Control
+=============
+Swipe to left, right, up, down and tap for right move.
 
 Screenshot
 =============
