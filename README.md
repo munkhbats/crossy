@@ -9,12 +9,6 @@ Control
 =============
 Swipe to left, right, up, down and tap for right move.
 
-Screenshot
-=============
-![Game screenshot](./screenshots/screenshot_1.png)
-![Game screenshot](./screenshots/screenshot_2.png)
-
-
 License
 =============
 
